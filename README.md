@@ -24,5 +24,5 @@ Once you run the script you should be able to see the message at the terminal us
 As for the get url, you just need to run the script
 
 ``` bash
-./getUrl.sh
+./getURL.sh
 ```
